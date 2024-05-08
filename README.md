@@ -34,3 +34,4 @@ Collection of Artificial Intelligence projects realised by me. Some of these top
 [license-shield]: https://img.shields.io/github/license/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierpaolo28/
+This project is tested with BrowserStack.
